@@ -1,0 +1,39 @@
+body{
+	background-color: #d7eee9;
+}
+.дивгориз{
+    margin-top: -10px;
+    margin-bottom: -10px;
+	display: flex;
+}
+img{
+    height: 250px;
+    margin: 20px;
+    box-shadow: 0 0 15px #46615b;
+}
+.надтекст{
+    margin-bottom: -10px;
+    align-self: center;
+    justify-self: center;
+}
+div{
+    margin: 10px;
+    justify-content: center;
+	align-items: center;
+}
+h1{
+    color: #163014;
+}
+h2{
+    color: #2e5b2c;
+}
+h3{
+    color: #355d33;
+}
+h4{
+    color: #496c47;
+}
+.h{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+}   
